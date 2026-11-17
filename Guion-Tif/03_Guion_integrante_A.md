@@ -1,4 +1,4 @@
-# Guion del integrante A
+# Guion del Gary
 
 Numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
 
@@ -86,7 +86,7 @@ Base documental: 4. Marco teórico, §4.1.
 
 Qué decir:
 
-El marco teórico recoge estimaciones de una revisión de 2012: una prevalencia de vida del cero coma tres al uno por ciento para anorexia y del uno al tres por ciento para bulimia en mujeres. Son datos de contexto, no cifras actuales de adolescentes argentinos. Los TCA pueden coexistir con ansiedad y depresión, lo que vuelve importante una atención integral. La detección temprana favorece la recuperación. Ahora mi compañero o compañera explicará las características de cada trastorno y los modelos que ayudan a comprenderlos.
+El marco teórico recoge estimaciones de una revisión de 2012: una prevalencia de vida del cero coma tres al uno por ciento para anorexia y del uno al tres por ciento para bulimia en mujeres. Son datos de contexto, no cifras actuales de adolescentes argentinos. Los TCA pueden coexistir con ansiedad y depresión, lo que vuelve importante una atención integral. La detección temprana favorece la recuperación. Ahora Sele explicará las características de cada trastorno y los modelos que ayudan a comprenderlos.
 
 Base documental: 4. Marco teórico, §4.1.
 

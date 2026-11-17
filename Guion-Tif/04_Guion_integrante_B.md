@@ -1,4 +1,4 @@
-# Guion del integrante B
+# Guion del Sele
 
 Numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
 

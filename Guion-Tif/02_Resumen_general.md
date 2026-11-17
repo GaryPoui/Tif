@@ -39,4 +39,3 @@ La bibliografía permite comprender la interacción de factores y las consecuenc
 ## Para recordar antes de hablar
 
 Las cifras de los antecedentes pertenecen a sus muestras y contextos. Los rangos de prevalencia de la diapositiva 19 proceden de bibliografía de 2012 citada en el TIF: no deben anunciarse como datos actuales de Argentina. La familia puede ser un recurso de apoyo. Las conclusiones se expresan como síntesis de bibliografía, sin culpar ni generalizar.
-

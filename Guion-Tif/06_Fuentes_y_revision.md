@@ -28,7 +28,7 @@ López-Trujillo, M., Gómez-Restrepo, S. M., Hoyos-Sanabria, S., y Vela-Arbeláe
 
 ## Ajustes sugeridos antes de exponer
 
-1. Portada y cierre: figuran cuatro autores, aunque el grupo actual tiene ocho según la indicación del usuario. Confirmar la nómina y actualizarla si corresponde. No se asignaron nombres a A, B o C.
+1. Orden confirmado: Delfi (1–8), Gary (9–19), Sele (20–28) y Ulda (29–37). La portada incluye a Delfina Linares, Tomás Garayzar, Selene Feroleto y Ulises Copati.
 2. Diapositivas 30 y 31: el texto es idéntico. Se puede eliminar una tras acordarlo con el grupo; mientras tanto, la 31 lleva una transición breve para conservar la numeración.
 3. Diapositiva 21: el encabezado dice “Estado del arte”, pero el contenido corresponde a “Marco teórico”.
 4. Diapositiva 20: cambiar la etiqueta “Atracones” por “Con atracones/purgas”, según el capítulo 4.
@@ -63,3 +63,6 @@ Estos ajustes son propuestas para revisión; no se aplicaron al Canva ni al repo
 
 ¿Qué quedó pendiente? Profundizar mecanismos neurobiológicos, tratamientos y diferencias culturales, y contar con evidencia local más representativa.
 
+## Actualización del primer bloque
+
+Se verificó por separado el texto de las diapositivas 1–8 del Canva para preparar el guion, informe y resumen de Delfi. Se contrastaron la introducción corregida, el planteamiento del problema y los objetivos del repositorio. Se mantiene la distinción entre revisión narrativa, asociaciones y causalidad.

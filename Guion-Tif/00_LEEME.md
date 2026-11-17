@@ -1,14 +1,21 @@
 # Material para la exposición del TIF
 
-La anorexia y la bulimia en la adolescencia. Borrador para revisión del grupo, preparado el 17/11/2026.
+La anorexia y la bulimia en la adolescencia. Actualización del 17/11/2026.
 
-Se leyeron las 37 diapositivas del Canva y los capítulos del repositorio. Se conservan las diapositivas 1–8 ya asignadas; se distribuyen las 29 restantes entre los tres integrantes pendientes, identificados como A, B y C. No se infiere quiénes son a partir de los cuatro nombres que figuran en la portada.
+Orden de exposición: Delfi (1–8), Gary (9–19), Sele (20–28) y Ulda (29–37). Se cuenta la portada como diapositiva 1.
 
 ## Archivos
 
-01: reparto y correspondencia por diapositiva. 02: resumen general para estudiar. 03, 04 y 05: guiones individuales, listos para practicar. 06: fuentes, ajustes y preguntas posibles. Se incluyen versiones editables Word y Markdown, y un PDF unificado para lectura e impresión.
+- 01_Reparto: distribución completa y correspondencia por diapositiva.
+- 02_Resumen_general: resumen para todo el grupo.
+- 03_Guion_integrante_A: Gary.
+- 04_Guion_integrante_B: Sele.
+- 05_Guion_integrante_C: Ulda.
+- 06_Fuentes_y_revision: fuentes, revisión y preguntas posibles.
+- 07_Guion_Delfi: qué decir en cada una de las primeras ocho diapositivas y preguntas para preparar.
+- 08_Informe_y_resumen_Delfi: informe, resumen y ayuda memoria del primer bloque.
+- Material_completo_TIF.pdf: versión unificada para lectura e impresión.
 
-El texto bajo “Qué decir” es un guion oral propuesto, no una cita literal. Las indicaciones de fuente y estudio no se leen en voz alta. Los tiempos son estimaciones por cantidad de palabras, a 110–130 palabras por minuto, más pausas y cambios de diapositiva; deben ajustarse con un ensayo. No se conoce el tiempo total asignado por la docente.
+Cada documento tiene versión Word y Markdown. Se conservan los nombres de los archivos A, B y C para mantener sus enlaces; sus títulos indican los nombres asignados.
 
-El usuario autorizó la publicación de estos materiales en GitHub. El Canva conserva su contenido original. Los guiones corresponden a los tres integrantes pendientes y a las diapositivas 9–37.
-
+Los guiones son propuestas de explicación oral. Los tiempos dependen del ensayo y de las pausas; no se fijó un tiempo total. El Canva conserva su contenido. Si se elimina la diapositiva 31 repetida, hay que actualizar la numeración.
