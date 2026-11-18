@@ -23,8 +23,12 @@ Se conserva la numeración original: portada 1 e índice 2. Ambas son apoyo de a
 - 06_Fuentes_y_revision: fuentes, correcciones propuestas y preguntas de preparación.
 - 07_Guion_Delfi: guion de Delfi para las diapositivas 3–10.
 - 08_Informe_y_resumen_Delfi: informe, resumen y ayuda memoria del bloque de Delfi.
+- 09_Informe_y_resumen_Gary: informe, resumen y ayuda memoria de Gary.
+- 10_Informe_y_resumen_Sele: informe, resumen y ayuda memoria de Sele.
+- 11_Informe_y_resumen_Ulda: informe, resumen y ayuda memoria de Ulda.
+- 12_Fuentes_y_preguntas_por_integrante: procedencia, foco y límites de las fuentes y preguntas comunes.
 - Material_completo_TIF.pdf: todos los documentos reunidos para lectura e impresión.
 
-Los documentos tienen versiones Word y Markdown; el guion y el informe de Delfi también tienen PDF individual. Se conservan los nombres de archivo A, B y C para mantener los enlaces, pero los títulos y el contenido identifican a Gary, Sele y Ulda.
+Cada integrante tiene guion, informe y resumen en Word, Markdown y PDF individual, con notas para practicar, preguntas y fuentes. Se conservan los nombres de archivo A, B y C para mantener los enlaces, pero los títulos y el contenido identifican a Gary, Sele y Ulda.
 
 Los beneficios y la viabilidad de las diapositivas 9 y 10 corresponden a Delfi. Gary inicia en la 11 con los antecedentes. Los apartados “Qué decir” son guiones orales; las fuentes y las notas sirven para estudiar. El Canva conserva su contenido y su numeración. Si se elimina la diapositiva 31 repetida, hay que renumerar los materiales.

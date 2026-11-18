@@ -14,7 +14,7 @@ Repositorio: https://github.com/GaryPoui/Tif/tree/feefd1a907053a0e2be93268f002c4
 - 5.Objetivos.docx: objetivos generales y específicos.
 - 6.Metodologia.docx: diseño narrativo, instrumentos, procedimiento y límites.
 
-Los PDF de apoyo y el ejercicio de citaciones no se utilizaron como evidencia adicional. No se verificaron de forma independiente los artículos originales ni todas las citas textuales del marco teórico. Las referencias siguientes se transcriben desde el estado del arte corregido; los guiones usan paráfrasis y no reproducen citas textuales clínicas.
+Los PDF de apoyo y el ejercicio de citaciones no se utilizaron como evidencia adicional. Para completar la preparación se contrastaron el resumen de Vertex, el registro y resumen del estudio argentino en PubMed, el texto noruego en PMC y la ficha institucional de la revisión familiar. No se verificaron íntegramente todas las obras y citas del marco teórico. Las referencias siguientes se transcriben desde el estado del arte corregido; los guiones usan paráfrasis y no reproducen citas textuales clínicas.
 
 ## Referencias recuperadas del TIF
 
@@ -68,3 +68,7 @@ El reparto se actualizó en los materiales de exposición. Las correcciones del 
 El 18/11/2026 se reorganizó el material según la distribución confirmada: Delfi 3–10, Gary 11–19, Sele 20–28 y Ulda 29–37. Las diapositivas 9 y 10, sobre beneficios y viabilidad, pasaron al guion y al informe de Delfi. Gary comienza con los antecedentes. La portada y el índice quedan como apoyo de apertura en las diapositivas 1 y 2, sin expositor asignado en el reparto.
 
 Se actualizaron las referencias a los bloques, la correspondencia por diapositiva, los pases de palabra, las estimaciones de práctica y las versiones Word y PDF. Las bases documentales de los contenidos se mantienen.
+
+## Material individual de preparación
+
+Los cuatro integrantes cuentan con guion, informe y resumen. Los guiones incluyen preguntas del docente y respuestas orientativas; el documento 12 explica de dónde proviene la información, el foco de cada estudio y la función de revistas, repositorios e índices.

@@ -64,7 +64,7 @@ Fuente para preparar: 2. Planteamiento, §2.3; 5. Objetivos.
 
 Hasta acá presentamos el problema, los objetivos y por qué el trabajo es relevante y viable. Ahora Gary va a explicar los antecedentes que tomamos como referencia, empezando por la revisión clínica de López-Trujillo y colaboradores.
 
-## Preguntas para preparar
+## Preguntas que puede hacer el docente
 
 - ¿Por qué eligieron el tema? Para comprender los factores asociados, las consecuencias y la importancia de la prevención durante la adolescencia.
 - ¿Cuál es el objetivo general? Analizar factores psicológicos, sociales y físicos asociados a ambos trastornos en adolescentes, con interés en el contexto argentino.
@@ -80,3 +80,5 @@ Hasta acá presentamos el problema, los objetivos y por qué el trabajo es relev
 Canva “La anorexia y la bulimia en la adolescencia”, diapositivas 3–10: https://www.canva.com/design/DAHZOZh-rQI/edit
 
 Repositorio GaryPoui/Tif: “1.Introduccion Corregida.docx”, “2.Planteamiento del problema.docx” y “5.Objetivos.docx”. Para los límites metodológicos, consultar también “06_Fuentes_y_revision.md” y el capítulo 6 del TIF.
+
+El detalle del foco de cada fuente, las publicaciones y sus límites está en “12_Fuentes_y_preguntas_por_integrante.md”.
