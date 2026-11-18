@@ -1,38 +1,56 @@
 # TIF sobre la anorexia y la bulimia en la adolescencia
 
-## Orden de exposición
+## Qué tiene que estudiar y decir cada integrante
 
-Distribución actualizada el 18/11/2026: **Delfi → Gary → Sele → Ulda**.
+El orden de exposición es **Delfi → Gary → Sele → Ulda**. Las diapositivas 1 y 2 son la portada y el índice y se muestran al inicio.
 
-| Turno | Integrante | Diapositivas | Cantidad | Contenido |
-| --- | --- | --- | --- | --- |
-| 1 | Delfi | 3–10 | 8 | Introducción, contenidos, problema, objetivos, preguntas, justificación, beneficios y viabilidad. |
-| 2 | Gary | 11–19 | 9 | Antecedentes, comparación de estudios, marco teórico y definición general de TCA. |
-| 3 | Sele | 20–28 | 9 | Anorexia, bulimia, consecuencias, adolescencia y modelos explicativos. |
-| 4 | Ulda | 29–37 | 9 | Imagen corporal, redes, síntesis, metodología, conclusiones y cierre. |
+### Delfi · Diapositivas 3–10
 
-Se conserva la numeración original: portada 1 e índice 2. Ambas son apoyo de apertura y quedan fuera de los bloques asignados, sin expositor definido en este reparto.
+- **Estudiá** el planteamiento del problema, la diferencia entre objetivos y preguntas, la justificación, los beneficios y la viabilidad de la investigación bibliográfica.
+- **Decí** por qué eligieron el tema, qué se propusieron investigar y por qué el trabajo era viable. Cerrá la diapositiva 10 dándole la palabra a Gary.
+- [Guion de Delfi](Guion-Tif/Guion_Delfi_03-10.md) · [Guion en Word](Guion-Tif/Guion_Delfi_03-10.docx) · [Guion en PDF](Guion-Tif/Guion_Delfi_03-10.pdf) · [Resumen de Delfi](Guion-Tif/08_Informe_y_resumen_Delfi.md)
 
-**Las diapositivas 9 y 10 ahora son de Delfi. Gary comienza en la 11 con los antecedentes.**
+### Gary · Diapositivas 11–19
 
-## Material para preparar la defensa
+- **Estudiá** los cuatro antecedentes —López-Trujillo, López, Dahlgren y Camino de Menchaca— y repasá el lugar, el método, el aporte y el límite de cada estudio. Revisá también la definición y clasificación de los TCA.
+- **Decí** qué aporta cada antecedente, cómo se comparan y cómo llevan al marco teórico. Aclará el alcance de las cifras de prevalencia de la diapositiva 19 y pasale la palabra a Sele.
+- [Guion de Gary](Guion-Tif/Guion_Gary_11-19.md) · [Guion en Word](Guion-Tif/Guion_Gary_11-19.docx) · [Guion en PDF](Guion-Tif/Guion_Gary_11-19.pdf) · [Resumen de Gary](Guion-Tif/09_Informe_y_resumen_Gary.md)
 
-Cada integrante tiene un guion por diapositiva con preguntas y respuestas para practicar, y un informe y resumen con ayuda memoria. Los archivos están en Markdown, Word y PDF. Los nombres A, B y C se conservan para mantener los enlaces anteriores.
+### Sele · Diapositivas 20–28
 
-| Integrante | Guion y preguntas | Informe y resumen |
-| --- | --- | --- |
-| Delfi 3–10 | [Guion](Guion-Tif/07_Guion_Delfi.md) · [PDF](Guion-Tif/07_Guion_Delfi.pdf) | [Resumen](Guion-Tif/08_Informe_y_resumen_Delfi.md) · [PDF](Guion-Tif/08_Informe_y_resumen_Delfi.pdf) |
-| Gary 11–19 | [Guion](Guion-Tif/03_Guion_integrante_A.md) · [PDF](Guion-Tif/03_Guion_integrante_A.pdf) | [Resumen](Guion-Tif/09_Informe_y_resumen_Gary.md) · [PDF](Guion-Tif/09_Informe_y_resumen_Gary.pdf) |
-| Sele 20–28 | [Guion](Guion-Tif/04_Guion_integrante_B.md) · [PDF](Guion-Tif/04_Guion_integrante_B.pdf) | [Resumen](Guion-Tif/10_Informe_y_resumen_Sele.md) · [PDF](Guion-Tif/10_Informe_y_resumen_Sele.pdf) |
-| Ulda 29–37 | [Guion](Guion-Tif/05_Guion_integrante_C.md) · [PDF](Guion-Tif/05_Guion_integrante_C.pdf) | [Resumen](Guion-Tif/11_Informe_y_resumen_Ulda.md) · [PDF](Guion-Tif/11_Informe_y_resumen_Ulda.pdf) |
+- **Estudiá** las diferencias entre anorexia y bulimia, sus consecuencias, por qué se analiza la adolescencia y qué explica cada modelo: biológico, psicológico, familiar y sociocultural.
+- **Decí** cómo se diferencian los trastornos, qué consecuencias se describen y cómo se complementan los cuatro modelos. Cerrá la diapositiva 28 dándole paso a Ulda.
+- [Guion de Sele](Guion-Tif/Guion_Sele_20-28.md) · [Guion en Word](Guion-Tif/Guion_Sele_20-28.docx) · [Guion en PDF](Guion-Tif/Guion_Sele_20-28.pdf) · [Resumen de Sele](Guion-Tif/10_Informe_y_resumen_Sele.md)
 
-- [Fuentes por integrante: procedencia, foco de cada publicación y límites](Guion-Tif/12_Fuentes_y_preguntas_por_integrante.md).
-- [Reparto y pases de palabra](Guion-Tif/01_Reparto.md).
-- [Resumen general](Guion-Tif/02_Resumen_general.md).
-- [Fuentes y revisión](Guion-Tif/06_Fuentes_y_revision.md).
-- [PDF completo para estudiar](Guion-Tif/Material_completo_TIF.pdf).
+### Ulda · Diapositivas 29–37
 
-Las diapositivas 30 y 31 repiten contenido. Se conservan las 37 diapositivas; si se elimina una, hay que actualizar los guiones y el reparto.
+- **Estudiá** imagen corporal, autoestima y redes. Prepará la revisión narrativa del grupo, sus instrumentos, las cinco etapas del procedimiento y los límites de las conclusiones.
+- **Decí** cómo se relacionan la imagen corporal y el entorno, cómo investigó el grupo y a qué conclusiones llegó. En la 31 retomá brevemente la idea de la 30. Cerrá en la 37 y abrí las preguntas.
+- [Guion de Ulda](Guion-Tif/Guion_Ulda_29-37.md) · [Guion en Word](Guion-Tif/Guion_Ulda_29-37.docx) · [Guion en PDF](Guion-Tif/Guion_Ulda_29-37.pdf) · [Resumen de Ulda](Guion-Tif/11_Informe_y_resumen_Ulda.md)
+
+## Qué es cada archivo
+
+| Material | Para qué sirve |
+| --- | --- |
+| **Guion individual** | El apartado «Qué decir» trae el texto oral de cada diapositiva. Las notas de preparación indican ideas que conviene entender y las preguntas del final sirven para ensayar la defensa. |
+| **Informe y resumen individual** | Explica el bloque de cada persona con más contexto e incluye un ayuda memoria por diapositiva. Empezá por acá para entender tu parte. |
+| **Reparto y pases de palabra** | Indica quién explica cada diapositiva, dónde se pasa la palabra y cuánto dura aproximadamente cada bloque. [Abrir reparto](Guion-Tif/01_Reparto.md) |
+| **Resumen general** | Da una visión de todo el TIF para conectar tu parte con las del resto y responder preguntas generales. [Abrir resumen general](Guion-Tif/02_Resumen_general.md) |
+| **Fuentes y preguntas por integrante** | Explica de dónde sale la información, en qué se centra cada publicación o lugar de consulta y qué alcance tiene. Incluye preguntas comunes con respuestas. [Abrir guía de fuentes](Guion-Tif/12_Fuentes_y_preguntas_por_integrante.md) |
+| **Fuentes y revisión** | Reúne referencias, aclaraciones y correcciones sugeridas para el ensayo y la presentación. [Abrir revisión](Guion-Tif/06_Fuentes_y_revision.md) |
+| **PDF completo** | Reúne guiones, informes, resúmenes y fuentes en un solo archivo para compartir o imprimir. [Abrir PDF completo](Guion-Tif/Material_completo_TIF.pdf) |
+| **LEEME de la carpeta** | Lista todos los materiales de exposición y describe qué contiene cada uno. [Abrir índice de la carpeta](Guion-Tif/00_LEEME.md) |
+
+Los documentos numerados del 1 al 6 en la raíz son los capítulos del TIF. Usalos para revisar en detalle la introducción, el problema, los antecedentes, el marco teórico, los objetivos y la metodología. Los materiales de ensayo están en [Guion-Tif](Guion-Tif/).
+
+## Cómo preparar tu parte
+
+1. Leé tu **resumen individual** y repasá el ayuda memoria.
+2. Abrí el **guion junto al Canva** y ensayá en orden lo que figura bajo «Qué decir», incluido tu pase de palabra.
+3. Practicá las **preguntas del docente** y revisá **tus fuentes** para poder explicar de dónde sale cada afirmación.
+4. Leé el **resumen general** para ubicar tu bloque dentro del trabajo completo.
+
+[Abrir presentación en Canva](https://www.canva.com/design/DAHZOZh-rQI/edit)
 
 ## Conversación de referencia
 
