@@ -88,7 +88,7 @@ Documentos inmediatos: “1.Introduccion Corregida.docx”, “2.Planteamiento d
 
 Foco: plantear el tema, el problema, los objetivos y las preguntas; justificar la relevancia educativa y explicar beneficios y viabilidad. Los objetivos son decisiones del grupo y las preguntas orientan la lectura. No son resultados extraídos de una encuesta.
 
-Preparación clave: explicar por qué se eligió el tema, distinguir objetivos de preguntas y justificar que el trabajo fue bibliográfico. Las respuestas específicas están en “07_Guion_Delfi.md”.
+Preparación clave: explicar por qué se eligió el tema, distinguir objetivos de preguntas y justificar que el trabajo fue bibliográfico. Las respuestas específicas están en “Guion_Delfi_03-10.md”.
 
 ## Fuentes del bloque de Gary
 
@@ -96,7 +96,7 @@ Documentos inmediatos: capítulo 3, secciones 3.1–3.5, y capítulo 4, sección
 
 Foco: comparar los cuatro antecedentes y pasar al marco conceptual. El DSM-5 y la CIE-11 se citan en el capítulo 4 para clasificación; Smink, van Hoeken y Hoek (2012), para cifras de contexto.
 
-Preparación clave: saber quién investigó, dónde, con qué método y qué permite concluir. No presentar la revisión de Vertex como una muestra argentina ni las cifras de 2012 como prevalencia nacional actual. Las respuestas específicas están en “03_Guion_integrante_A.md”.
+Preparación clave: saber quién investigó, dónde, con qué método y qué permite concluir. No presentar la revisión de Vertex como una muestra argentina ni las cifras de 2012 como prevalencia nacional actual. Las respuestas específicas están en “Guion_Gary_11-19.md”.
 
 ## Fuentes del bloque de Sele
 
@@ -112,7 +112,7 @@ Documento inmediato: capítulo 4, secciones 4.2–4.5.4. Las siguientes referenc
 | Minuchin, Rosman y Baker (1978); Striegel-Moore y Bulik (2007) | Perspectivas familiares y factores de riesgo. | Sección 4.5.3; diapositiva 27. |
 | Garner y Garfinkel (1980); Fredrickson y Roberts (1997) | Ideales socioculturales y objetivación. | Sección 4.5.4; diapositiva 28. |
 
-Preparación clave: distinguir cuadros completos de conductas aisladas, aclarar el sentido de heredabilidad y explicar que los modelos se complementan. Las respuestas específicas están en “04_Guion_integrante_B.md”.
+Preparación clave: distinguir cuadros completos de conductas aisladas, aclarar el sentido de heredabilidad y explicar que los modelos se complementan. Las respuestas específicas están en “Guion_Sele_20-28.md”.
 
 ## Fuentes del bloque de Ulda
 
@@ -127,7 +127,7 @@ Documentos inmediatos: capítulo 4, secciones 4.6–4.7 y síntesis; capítulo 6
 | Capítulo 6 del grupo | Diseño narrativo, unidad de análisis, instrumentos y procedimiento. | Diapositivas 33–34. |
 | Síntesis de capítulos y diapositivas 35–36 | Integración de objetivos, aportes y límites. | Conclusiones; no son resultados de una investigación de campo propia. |
 
-Los textos metodológicos y las consignas de la materia ayudan a organizar el trabajo. No son evidencia clínica sobre anorexia o bulimia. Las respuestas específicas están en “05_Guion_integrante_C.md”.
+Los textos metodológicos y las consignas de la materia ayudan a organizar el trabajo. No son evidencia clínica sobre anorexia o bulimia. Las respuestas específicas están en “Guion_Ulda_29-37.md”.
 
 ## Preguntas comunes sobre las fuentes
 
