@@ -17,17 +17,20 @@ Se conserva la numeración original: portada 1 e índice 2. Ambas son apoyo de a
 
 ## Material para preparar la defensa
 
-En [Guion-Tif](Guion-Tif/) están el reparto completo, el resumen común, los guiones y las fuentes. Las versiones Word y PDF siguen la misma distribución.
+Cada integrante tiene un guion por diapositiva con preguntas y respuestas para practicar, y un informe y resumen con ayuda memoria. Los archivos están en Markdown, Word y PDF. Los nombres A, B y C se conservan para mantener los enlaces anteriores.
 
-- [Reparto por diapositiva y pases de palabra](Guion-Tif/01_Reparto.md).
-- [Resumen general y contenidos de cada bloque](Guion-Tif/02_Resumen_general.md).
-- [Delfi — guion de las diapositivas 3–10](Guion-Tif/07_Guion_Delfi.md).
-- [Delfi — informe y resumen](Guion-Tif/08_Informe_y_resumen_Delfi.md).
-- [Gary — guion de las diapositivas 11–19](Guion-Tif/03_Guion_integrante_A.md).
-- [Sele — guion de las diapositivas 20–28](Guion-Tif/04_Guion_integrante_B.md).
-- [Ulda — guion de las diapositivas 29–37](Guion-Tif/05_Guion_integrante_C.md).
-- [Fuentes, revisión y preguntas posibles](Guion-Tif/06_Fuentes_y_revision.md).
-- [PDF completo actualizado](Guion-Tif/Material_completo_TIF.pdf).
+| Integrante | Guion y preguntas | Informe y resumen |
+| --- | --- | --- |
+| Delfi 3–10 | [Guion](Guion-Tif/07_Guion_Delfi.md) · [PDF](Guion-Tif/07_Guion_Delfi.pdf) | [Resumen](Guion-Tif/08_Informe_y_resumen_Delfi.md) · [PDF](Guion-Tif/08_Informe_y_resumen_Delfi.pdf) |
+| Gary 11–19 | [Guion](Guion-Tif/03_Guion_integrante_A.md) · [PDF](Guion-Tif/03_Guion_integrante_A.pdf) | [Resumen](Guion-Tif/09_Informe_y_resumen_Gary.md) · [PDF](Guion-Tif/09_Informe_y_resumen_Gary.pdf) |
+| Sele 20–28 | [Guion](Guion-Tif/04_Guion_integrante_B.md) · [PDF](Guion-Tif/04_Guion_integrante_B.pdf) | [Resumen](Guion-Tif/10_Informe_y_resumen_Sele.md) · [PDF](Guion-Tif/10_Informe_y_resumen_Sele.pdf) |
+| Ulda 29–37 | [Guion](Guion-Tif/05_Guion_integrante_C.md) · [PDF](Guion-Tif/05_Guion_integrante_C.pdf) | [Resumen](Guion-Tif/11_Informe_y_resumen_Ulda.md) · [PDF](Guion-Tif/11_Informe_y_resumen_Ulda.pdf) |
+
+- [Fuentes por integrante: procedencia, foco de cada publicación y límites](Guion-Tif/12_Fuentes_y_preguntas_por_integrante.md).
+- [Reparto y pases de palabra](Guion-Tif/01_Reparto.md).
+- [Resumen general](Guion-Tif/02_Resumen_general.md).
+- [Fuentes y revisión](Guion-Tif/06_Fuentes_y_revision.md).
+- [PDF completo para estudiar](Guion-Tif/Material_completo_TIF.pdf).
 
 Las diapositivas 30 y 31 repiten contenido. Se conservan las 37 diapositivas; si se elimina una, hay que actualizar los guiones y el reparto.
 
