@@ -2,7 +2,7 @@
 
 ## Material efectivamente leído
 
-Canva: https://www.canva.com/design/DAHZOZh-rQI/edit — “La anorexia y la bulimia en la adolescencia”, 37 páginas, texto de todas las páginas y correspondencia individual de las páginas 9–37. No se recibieron notas con contenido del presentador. La revisión se centró en el texto, no en una auditoría del diseño visual.
+Canva: https://www.canva.com/design/DAHZOZh-rQI/edit — “La anorexia y la bulimia en la adolescencia”, 37 páginas, texto de todas las páginas y correspondencia por diapositiva. No se recibieron notas con contenido del presentador. La revisión se centró en el texto, no en una auditoría del diseño visual.
 
 Repositorio: https://github.com/GaryPoui/Tif/tree/feefd1a907053a0e2be93268f002c478421b8804 — instantánea consultada el 17/11/2026.
 
@@ -28,7 +28,7 @@ López-Trujillo, M., Gómez-Restrepo, S. M., Hoyos-Sanabria, S., y Vela-Arbeláe
 
 ## Ajustes sugeridos antes de exponer
 
-1. Orden confirmado: Delfi (1–8), Gary (9–19), Sele (20–28) y Ulda (29–37). La portada incluye a Delfina Linares, Tomás Garayzar, Selene Feroleto y Ulises Copati.
+1. Orden confirmado: Delfi (3–10), Gary (11–19), Sele (20–28) y Ulda (29–37). La portada incluye a Delfina Linares, Tomás Garayzar, Selene Feroleto y Ulises Copati.
 2. Diapositivas 30 y 31: el texto es idéntico. Se puede eliminar una tras acordarlo con el grupo; mientras tanto, la 31 lleva una transición breve para conservar la numeración.
 3. Diapositiva 21: el encabezado dice “Estado del arte”, pero el contenido corresponde a “Marco teórico”.
 4. Diapositiva 20: cambiar la etiqueta “Atracones” por “Con atracones/purgas”, según el capítulo 4.
@@ -39,7 +39,7 @@ López-Trujillo, M., Gómez-Restrepo, S. M., Hoyos-Sanabria, S., y Vela-Arbeláe
 9. Conclusiones 35–36: el repo no contiene un capítulo independiente de conclusión entre los archivos encontrados. Los guiones se apoyan en esas diapositivas y en la síntesis de los capítulos. Conviene decir “abordamos los objetivos desde la bibliografía”, evitando afirmar que demostramos eficacia o causas.
 10. En la introducción y los objetivos aparecen expresiones causales fuertes sobre el entorno. Para la exposición se usa “factores asociados” o “que pueden contribuir”, coherente con los límites del estado del arte corregido y de la metodología.
 
-Estos ajustes son propuestas para revisión; no se aplicaron al Canva ni al repositorio.
+El reparto se actualizó en los materiales de exposición. Las correcciones del contenido o del diseño del Canva siguen siendo propuestas para revisión; no se modificó el Canva.
 
 ## Preguntas posibles y respuestas breves
 
@@ -63,6 +63,8 @@ Estos ajustes son propuestas para revisión; no se aplicaron al Canva ni al repo
 
 ¿Qué quedó pendiente? Profundizar mecanismos neurobiológicos, tratamientos y diferencias culturales, y contar con evidencia local más representativa.
 
-## Actualización del primer bloque
+## Actualización del reparto
 
-Se verificó por separado el texto de las diapositivas 1–8 del Canva para preparar el guion, informe y resumen de Delfi. Se contrastaron la introducción corregida, el planteamiento del problema y los objetivos del repositorio. Se mantiene la distinción entre revisión narrativa, asociaciones y causalidad.
+El 18/11/2026 se reorganizó el material según la distribución confirmada: Delfi 3–10, Gary 11–19, Sele 20–28 y Ulda 29–37. Las diapositivas 9 y 10, sobre beneficios y viabilidad, pasaron al guion y al informe de Delfi. Gary comienza con los antecedentes. La portada y el índice quedan como apoyo de apertura en las diapositivas 1 y 2, sin expositor asignado en el reparto.
+
+Se actualizaron las referencias a los bloques, la correspondencia por diapositiva, los pases de palabra, las estimaciones de práctica y las versiones Word y PDF. Las bases documentales de los contenidos se mantienen.

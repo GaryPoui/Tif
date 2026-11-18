@@ -1,8 +1,21 @@
 # Resumen general para estudiar
 
+## Bloques para preparar
+
+- Delfi, diapositivas 3–10: introducción, problema, objetivos, preguntas, justificación, beneficios y viabilidad.
+- Gary, diapositivas 11–19: antecedentes, comparación de estudios e introducción al marco teórico y a los TCA.
+- Sele, diapositivas 20–28: anorexia, bulimia, adolescencia y modelos explicativos.
+- Ulda, diapositivas 29–37: imagen corporal, redes, síntesis, metodología, conclusiones y cierre.
+
+La portada y el índice corresponden a las diapositivas 1 y 2. Son apoyo de apertura y no tienen expositor asignado en este reparto. El resumen reúne los contenidos que debe conocer todo el grupo.
+
 ## Tema y propósito
 
 El TIF analiza factores psicológicos, sociales y físicos asociados a la anorexia y la bulimia en adolescentes, con interés en el contexto argentino. Sus objetivos son identificar factores familiares, sociales y psicológicos; describir consecuencias; reflexionar sobre prevención e intervención temprana; y examinar el papel del entorno en la imagen corporal.
+
+## Beneficios y viabilidad
+
+El aporte es educativo: reunir y explicar información para comprender los trastornos, cuestionar prejuicios y reflexionar sobre prevención y acompañamiento. El trabajo fue viable porque utilizó documentos y publicaciones, con los recursos y el tiempo disponibles. No se realizaron encuestas o entrevistas propias ni se midió un impacto de la investigación sobre la salud adolescente. Delfi presenta estos aspectos en las diapositivas 9 y 10, antes de que Gary comience los antecedentes.
 
 ## Diferencias principales
 

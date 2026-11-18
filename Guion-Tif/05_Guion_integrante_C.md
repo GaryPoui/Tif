@@ -1,6 +1,6 @@
-# Guion del Ulda
+# Guion de Ulda
 
-Numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
+Bloque asignado: diapositivas 29–37. Se conserva la numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
 
 ## Diapositiva 29 — Imagen corporal y autoestima
 

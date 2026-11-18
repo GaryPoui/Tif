@@ -1,27 +1,28 @@
-# Reparto de las diapositivas 1–37
+# Reparto de la exposición del TIF
 
-Se cuenta la portada como diapositiva 1. El orden acordado es Delfi, Gary, Sele y Ulda. Los bloques son consecutivos y cubren las 37 diapositivas.
+Distribución confirmada el 18/11/2026. Orden de exposición: Delfi, Gary, Sele y Ulda.
 
-Delfi: 1–8 (8 diapositivas): presentación, introducción, planteamiento del problema, objetivos, preguntas y justificación.
-Gary: 9–19 (11 diapositivas): beneficios, viabilidad, antecedentes y definición general de TCA.
-Sele: 20–28 (9 diapositivas): anorexia, bulimia, adolescencia y cuatro modelos explicativos.
-Ulda: 29–37 (9 diapositivas): imagen corporal, redes, síntesis, metodología y conclusión.
+| Turno | Integrante | Diapositivas | Cantidad | Contenido |
+| --- | --- | --- | --- | --- |
+| 1 | Delfi | 3–10 | 8 | Introducción, contenidos, problema, objetivos, preguntas, justificación, beneficios y viabilidad. |
+| 2 | Gary | 11–19 | 9 | Antecedentes, comparación de estudios, marco teórico y definición general de TCA. |
+| 3 | Sele | 20–28 | 9 | Anorexia, bulimia, consecuencias, adolescencia y modelos explicativos. |
+| 4 | Ulda | 29–37 | 9 | Imagen corporal, redes, síntesis, metodología, conclusiones y cierre. |
 
-La distribución busca equilibrar explicación y continuidad temática. C tiene una repetición y el agradecimiento, pero desarrolla metodología y cierre.
+Se conserva la numeración original: portada 1 e índice 2. Ambas son apoyo de apertura y quedan fuera de los bloques asignados, sin expositor definido en este reparto.
 
-## Correspondencia exacta
+## Correspondencia por diapositiva
 
-- 1. Delfi — Portada.
-- 2. Delfi — Índice.
+- 1. Apoyo de apertura — Portada.
+- 2. Apoyo de apertura — Índice.
 - 3. Delfi — Introducción.
 - 4. Delfi — Contenidos y objetivos.
 - 5. Delfi — Planteamiento del problema.
 - 6. Delfi — Objetivos.
 - 7. Delfi — Preguntas de investigación.
 - 8. Delfi — Justificación.
-
-- 9. Gary — Beneficios.
-- 10. Gary — Viabilidad.
+- 9. Delfi — Beneficios.
+- 10. Delfi — Viabilidad.
 - 11. Gary — Antecedente clínico: López-Trujillo y colaboradores.
 - 12. Gary — Experiencias de adolescentes argentinos.
 - 13. Gary — Aportes y límites del estudio argentino.
@@ -50,17 +51,20 @@ La distribución busca equilibrar explicación y continuidad temática. C tiene 
 - 36. Ulda — Conclusión: prevención y límites.
 - 37. Ulda — Cierre.
 
-Gary: 792 palabras de guion; lectura base de 6.1–7.2 minutos. Sumar pausas y práctica.
-
-Sele: 708 palabras de guion; lectura base de 5.4–6.4 minutos. Sumar pausas y práctica.
-
-Ulda: 602 palabras de guion; lectura base de 4.6–5.5 minutos. Sumar pausas y práctica.
-
-Las diapositivas 30 y 31 tienen texto idéntico. El guion de la 31 es deliberadamente breve. Si se elimina luego, habrá que renumerar las siguientes.
-
 ## Pases de palabra
 
-Delfi → Gary (9): beneficios y viabilidad.
-Gary → Sele (20): características de anorexia y bulimia.
-Sele → Ulda (29): imagen corporal y entorno.
-Ulda cierra en la 37.
+- Delfi termina en la 10 y presenta a Gary para los antecedentes de la 11.
+- Gary termina en la 19 y presenta a Sele para la anorexia de la 20.
+- Sele termina en la 28 y presenta a Ulda para la imagen corporal de la 29.
+- Ulda presenta las conclusiones y cierra en la 37.
+
+## Tiempos orientativos de práctica
+
+- Delfi: 701 palabras de guion oral; aproximadamente 5.4–6.4 minutos a 110–130 palabras por minuto.
+- Gary: 649 palabras de guion oral; aproximadamente 5.0–5.9 minutos a 110–130 palabras por minuto.
+- Sele: 712 palabras de guion oral; aproximadamente 5.5–6.5 minutos a 110–130 palabras por minuto.
+- Ulda: 602 palabras de guion oral; aproximadamente 4.6–5.5 minutos a 110–130 palabras por minuto.
+
+Las estimaciones incluyen el texto oral y los pases, pero no las notas de estudio. Hay que sumar las pausas y el cambio de diapositivas y ajustar con un ensayo. No se fijó una duración total.
+
+Las diapositivas 30 y 31 repiten contenido. Se conserva la 31 con una intervención breve para mantener las 37 diapositivas; si se elimina, hay que actualizar la numeración.

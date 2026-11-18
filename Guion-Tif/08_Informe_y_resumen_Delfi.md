@@ -2,7 +2,7 @@
 
 ## Alcance de la exposición
 
-Delfi abre la presentación y desarrolla las diapositivas 1–8. Su bloque presenta el tema, la organización del trabajo, el problema de investigación, los objetivos, las preguntas y la justificación. Al finalizar, entrega la palabra a Gary, quien comienza en la diapositiva 9.
+Delfi desarrolla las diapositivas 3–10: introducción, contenidos, planteamiento del problema, objetivos, preguntas, justificación, beneficios y viabilidad. La portada y el índice son las diapositivas 1 y 2, fuera de los bloques asignados. Al finalizar, entrega la palabra a Gary, quien comienza en la diapositiva 11 con los antecedentes.
 
 ## Informe de síntesis
 
@@ -16,7 +16,7 @@ Las preguntas de investigación trasladan esos objetivos a problemas concretos: 
 
 La justificación reside en la relevancia de la salud física y mental durante la adolescencia y en el aporte educativo de comprender la problemática y cuestionar los ideales de belleza. El procedimiento comprende búsqueda bibliográfica, selección, análisis crítico, redacción y presentación. Se trata de una revisión narrativa de documentos y publicaciones, sin encuestas ni entrevistas propias.
 
-El foco argentino debe distinguirse del origen de los antecedentes. El trabajo incorpora bibliografía de diferentes contextos y sus resultados no representan automáticamente a todos los adolescentes argentinos. El bloque de Delfi establece estas bases para que Gary continúe con beneficios, viabilidad y antecedentes.
+El foco argentino debe distinguirse del origen de los antecedentes. El trabajo incorpora bibliografía de diferentes contextos y sus resultados no representan automáticamente a todos los adolescentes argentinos. El bloque de Delfi incluye también los beneficios educativos y la viabilidad del trabajo. Reunir y explicar bibliografía aporta una base para la reflexión escolar; no se evaluó un efecto propio sobre la salud de los adolescentes. La consulta de documentos permitió realizarlo con los recursos y el tiempo disponibles, sin trabajo de campo. Estas bases dan paso a los antecedentes que presenta Gary.
 
 ## Resumen para estudiar
 
@@ -29,21 +29,23 @@ El foco argentino debe distinguirse del origen de los antecedentes. El trabajo i
 - Justificación: relevancia para la salud adolescente y para la reflexión educativa.
 - Método: revisión bibliográfica narrativa; documentos como material de análisis.
 - Límite: no hubo trabajo de campo propio ni evaluación de tratamientos.
-- Pase: Gary retoma en la diapositiva 9 con beneficios y viabilidad.
+- Beneficios: organizar y explicar información para la reflexión educativa.
+- Viabilidad: acceso a bibliografía y uso de los recursos y el tiempo disponibles, sin trabajo de campo.
+- Pase: Gary retoma en la diapositiva 11 con los antecedentes.
 
 ## Ayuda memoria por diapositiva
 
-1. Presentar al grupo y el título.
-2. Anticipar el recorrido de la exposición.
-3. Explicar el interés y el procedimiento bibliográfico.
-4. Ordenar los contenidos en factores, manifestaciones y recuperación.
-5. Plantear el problema y la influencia del entorno.
-6. Explicar el objetivo general y los cuatro específicos.
-7. Relacionar las cuatro preguntas con los objetivos.
-8. Justificar la relevancia educativa y pasar a Gary.
+- 3. Explicar el interés y el procedimiento bibliográfico.
+- 4. Ordenar los contenidos en factores, manifestaciones y recuperación.
+- 5. Plantear el problema y la influencia del entorno.
+- 6. Explicar el objetivo general y los cuatro específicos.
+- 7. Relacionar las cuatro preguntas con los objetivos.
+- 8. Justificar la relevancia educativa.
+- 9. Explicar los beneficios y el aporte educativo.
+- 10. Explicar la viabilidad y pasar a Gary.
 
 ## Fuentes
 
-Diapositivas 1–8 del Canva “La anorexia y la bulimia en la adolescencia”: https://www.canva.com/design/DAHZOZh-rQI/edit
+Diapositivas 3–10 del Canva “La anorexia y la bulimia en la adolescencia”: https://www.canva.com/design/DAHZOZh-rQI/edit
 
 Capítulos del repositorio https://github.com/GaryPoui/Tif: “1.Introduccion Corregida.docx”, “2.Planteamiento del problema.docx” y “5.Objetivos.docx”. Los criterios de alcance y límites se articulan con el material “06_Fuentes_y_revision.md”.

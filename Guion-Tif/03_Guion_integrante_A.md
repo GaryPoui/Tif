@@ -1,22 +1,6 @@
-# Guion del Gary
+# Guion de Gary
 
-Numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
-
-## Diapositiva 9 — Beneficios
-
-Qué decir:
-
-El valor de esta investigación está en comprender mejor la anorexia y la bulimia y generar conciencia sobre sus consecuencias. En la escuela, conocer estos trastornos puede ayudarnos a cuestionar prejuicios y reconocer la importancia del acompañamiento. Nuestro aporte es reunir y explicar información científica para reflexionar sobre prevención y detección temprana. Como trabajamos con bibliografía, hablamos de un aporte educativo; no evaluamos si nuestro trabajo produjo cambios en la salud de los adolescentes.
-
-Base documental: 2. Planteamiento, §2.3; 5. Objetivos.
-
-## Diapositiva 10 — Viabilidad
-
-Qué decir:
-
-El trabajo fue viable porque pudimos consultar documentos y publicaciones científicas sin realizar trabajo de campo. Esto permitió desarrollar la investigación con los recursos y el tiempo disponibles. La unidad de análisis fue el contenido de las fuentes, no un grupo de estudiantes. Por eso, aunque incluimos datos de investigaciones anteriores, no hicimos encuestas ni entrevistas propias. Esta decisión también delimita las conclusiones que podemos presentar.
-
-Base documental: 2. Planteamiento, §2.3; 5. Objetivos.
+Bloque asignado: diapositivas 11–19. Comenzá con los antecedentes después del pase de Delfi en la diapositiva 10. Leé los apartados “Qué decir”; las bases documentales y las notas son para estudiar.
 
 ## Diapositiva 11 — Antecedente clínico: López-Trujillo y colaboradores
 

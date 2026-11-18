@@ -1,6 +1,6 @@
-# Guion del Sele
+# Guion de Sele
 
-Numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
+Bloque asignado: diapositivas 20–28. Se conserva la numeración del Canva original de 37 diapositivas. Leer únicamente “Qué decir”. Los tiempos se detallan en el archivo de reparto. Practicar con el Canva abierto, sin memorizar palabra por palabra.
 
 ## Diapositiva 20 — Anorexia nerviosa: características y subtipos
 
@@ -70,7 +70,7 @@ Base documental: 4. Marco teórico, §4.5.
 
 Qué decir:
 
-El modelo sociocultural analiza la presión por alcanzar ideales de apariencia difíciles de sostener. Cuando una persona incorpora esos ideales como medida de su valor, puede aumentar la insatisfacción con su cuerpo. La teoría de la objetivación también describe cómo mirarse desde la evaluación ajena puede favorecer vigilancia y vergüenza corporal. Esta perspectiva se integra con las anteriores: ningún modelo explica por sí solo todos los casos. A continuación veremos cómo se relacionan estas ideas con la autoestima y las redes sociales.
+El modelo sociocultural analiza la presión por alcanzar ideales de apariencia difíciles de sostener. Cuando una persona incorpora esos ideales como medida de su valor, puede aumentar la insatisfacción con su cuerpo. La teoría de la objetivación también describe cómo mirarse desde la evaluación ajena puede favorecer vigilancia y vergüenza corporal. Esta perspectiva se integra con las anteriores: ningún modelo explica por sí solo todos los casos. Ahora Ulda va a continuar en la diapositiva 29 con la imagen corporal, la autoestima y las redes sociales.
 
 Base documental: 4. Marco teórico, §4.5.
 
