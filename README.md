@@ -50,7 +50,7 @@ Los documentos numerados del 1 al 6 en la raíz son los capítulos del TIF. Usal
 3. Practicá las **preguntas del docente** y revisá **tus fuentes** para poder explicar de dónde sale cada afirmación.
 4. Leé el **resumen general** para ubicar tu bloque dentro del trabajo completo.
 
-[Abrir presentación en Canva](https://www.canva.com/design/DAHZOZh-rQI/edit)
+[Abrir presentación en Canva](https://www.canva.com/design/DAHZOZh-rQI/0TXoXaOy-F9HCaTqIxP8BA/edit)
 
 ## Conversación de referencia
 
